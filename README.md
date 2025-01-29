@@ -1,6 +1,9 @@
 ## Predictive Maintenance: Machine Learning to Prevent Equipment Breakdowns
 This repository contains a comprehensive analysis and implementation of a Predictive Maintenance project using Python. The goal is to predict equipment failures by analyzing historical sensor data and machine characteristics.
 
+# Data Source:
+https://www.kaggle.com/code/arnabbiswas1/predictive-maintenance-exploratory-data-analysis
+
 # Data Description: 
 
 There are 5 CSV files consisting of:
